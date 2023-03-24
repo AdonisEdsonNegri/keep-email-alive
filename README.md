@@ -15,6 +15,6 @@
   </li>
   <li>
     <code>npm run compile</code>
-    <p>Usando a biblioteca [pkg](https://github.com/vercel/pkg), o comando irá gerar executáveis para Linux, MacOS e Windows.</p>
+    <p>Usando a biblioteca <a href="https://github.com/vercel/pkg" target="_blank">pkg</a>, o comando irá gerar executáveis para Linux, MacOS e Windows.</p>
   </li>
 </ul>
